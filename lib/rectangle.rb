@@ -28,5 +28,3 @@ class Square < Rectangle
     @height = side
   end
 end
-
-
